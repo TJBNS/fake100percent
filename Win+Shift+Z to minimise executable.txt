@@ -1,0 +1,14 @@
+Req; 
+NEED windows 10
+
+Usage;
+Run Traymond.exe
+Run 100percent.exe
+Do Win+Shift+Z on the 100percent.exe
+Check system tray for icon if it isnt in bottom right
+Move real percentage into system tray
+
+To close;
+Double click fake charge icon
+Close 100percent.exe
+Exit out of Traymond.exe
