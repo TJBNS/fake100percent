@@ -13,17 +13,19 @@ In case you need to say your laptop battery is 100%
 
 **Usage**
 
-1. Download and extract it
+1. Click 'Code' then 'Download Zip'
 
-2. Run Traymond.exe
+2. Extract the downloaded .zip file
+
+3. Run Traymond.exe
    
-3. Run 100percent.exe
+4. Run 100percent.exe
    
-4. Do Win+Shift+Z on the 100percent.exe
+5. Do Win+Shift+Z on the 100percent.exe
    
-5. Check system tray for icon if it isnt in bottom right
+6. Check system tray for icon if it isnt in bottom right
    
-6. Move real percentage into system tray
+7. Move real percentage into system tray
    
 
 
