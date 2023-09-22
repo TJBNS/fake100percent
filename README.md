@@ -8,7 +8,7 @@ In case you need to say your laptop battery is 100%
 **Requirements**
 
 + Windows 10 operating system
-+ Extract the .zip
++ Extract the .zip (WinRar)
 
 
 **Usage**
