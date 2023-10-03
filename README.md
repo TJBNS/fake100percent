@@ -10,7 +10,7 @@ In case you need to say your laptop battery is 100%
 + Extract the .zip 
 
 
-+ **Usage**
+**Usage**
 
 1. Click 'Code' then 'Download Zip'
 
