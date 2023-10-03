@@ -1,7 +1,7 @@
 <h1>fake 100 percent</h1>
 
 
-In case you need to say your laptop battery is 100%
++ In case you need to say your laptop battery is 100%
 
 
 
