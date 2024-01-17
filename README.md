@@ -16,27 +16,16 @@ In case you need to say your laptop battery is 100%
 
 2. Extract the downloaded .zip file
 
-3. Run Traymond.exe
+3. Run 'battery.exe'
    
-4. Run 100percent.exe
+4. Check system tray for icon if it isnt in bottom right
    
-5. Do Win+Shift+Z on the 100percent.exe
-   
-6. Check system tray for icon if it isnt in bottom right
-   
-7. Move real percentage into system tray
+5. Move real percentage into system tray swapping it with your fake one
    
 
 
 **Removing Icon**
 
-1. Double click fake charge icon
+1. Right click fake charge icon
 
-2. Close 100percent.exe
-
-3. Exit out of Traymond.exe
-
-
-**Credits**
-
-fcFn for Traymond.exe - <https://github.com/fcFn/traymond>
+2. Exit
